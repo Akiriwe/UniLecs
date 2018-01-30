@@ -3,7 +3,7 @@ package task66;
 import java.util.Scanner;
 
 public class DegreeOfTwo {
-    private static final int DEGREE_NUMBER = 3;
+    private static final int DEGREE_NUMBER = 2;
 
     public static void main(String[] args) {
         System.out.println("Max degree: " + getMaxDegree(getInputString()));
